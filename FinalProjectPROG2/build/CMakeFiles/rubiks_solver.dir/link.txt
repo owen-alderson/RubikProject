@@ -1,0 +1,1 @@
+/usr/bin/cc  -arch x86_64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/rubiks_solver.dir/src/main.c.o CMakeFiles/rubiks_solver.dir/src/game.c.o CMakeFiles/rubiks_solver.dir/src/cube.c.o CMakeFiles/rubiks_solver.dir/src/solver.c.o CMakeFiles/rubiks_solver.dir/src/hints.c.o CMakeFiles/rubiks_solver.dir/src/timer.c.o -o rubiks_solver

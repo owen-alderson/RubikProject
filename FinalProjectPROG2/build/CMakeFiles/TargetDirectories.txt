@@ -1,0 +1,3 @@
+/Users/owenalderson/Documents/Programming1/FinalProjectPROG2/build/CMakeFiles/rubiks_solver.dir
+/Users/owenalderson/Documents/Programming1/FinalProjectPROG2/build/CMakeFiles/edit_cache.dir
+/Users/owenalderson/Documents/Programming1/FinalProjectPROG2/build/CMakeFiles/rebuild_cache.dir
